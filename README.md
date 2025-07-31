@@ -51,7 +51,7 @@ The agent's behavior is defined by a specific set of instructions within the IBM
 
 Here is a screenshot of the agent creating a recipe from a user's prompt:
 
-![Agent in Action](AI_agent_ss/your-screenshot-filename.png)
+![Agent in Action](AI_agent_ss/Working.png)
 
 ---
 
